@@ -1,0 +1,14 @@
+{
+  "api": {
+    "all": "/api/v2/pokemon",
+    "type": "/api/v2/type",
+    "detail": "/api/v2/pokemon"
+  },
+  "pages": {
+    "detail": "/detail",
+    "home": "/"
+  },
+  "image": {
+    "url": "src/assets/logo.svg"
+  }
+}
