@@ -1,4 +1,4 @@
 # React + TypeScript + Vite
 
-## Prueba Técnica
+## Prueba Técnica API pokemon + React + TS
 
